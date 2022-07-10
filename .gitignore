@@ -1,5 +1,4 @@
 
 .idea/
 venv/
-tutorial_project/polls/__pycache__/
-tutorial_project/tutorial_project/__pycache__/
+*.pyc
